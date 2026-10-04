@@ -1,0 +1,20 @@
+# ── 原始素材全文：不随仓库分发 ──────────────────────────────
+# references/source-text/ 下是《讲谈社·兴亡的世界史》九卷中文版的
+# epub 解包全文（world-history.txt，450 万字节）与分卷框架章节
+# （key-sections/w01–w09.txt），合计约 4.5MB。
+# 这套书仍在版权保护期内，公开仓库不应全文收录。
+# 本档案的行号引用以其解包文本为准，核对方法见 01-sources.md。
+references/source-text/
+
+# ── 系统与编辑器 ──────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# ── 临时文件 ──────────────────────────────
+*.tmp
+*.new
+~$*
