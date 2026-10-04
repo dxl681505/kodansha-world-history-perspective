@@ -16,10 +16,12 @@
 
 ```bash
 # WorkBuddy
-git clone <本仓库地址> ~/.workbuddy/skills/kodansha-world-history-perspective
+git clone https://github.com/dxl681505/kodansha-world-history-perspective.git \
+  ~/.workbuddy/skills/kodansha-world-history-perspective
 
 # Claude Code
-git clone <本仓库地址> ~/.claude/skills/kodansha-world-history-perspective
+git clone https://github.com/dxl681505/kodansha-world-history-perspective.git \
+  ~/.claude/skills/kodansha-world-history-perspective
 ```
 
 之后直接对话：
@@ -114,6 +116,12 @@ references/
 - **各卷厚度不均**，处理方式差异较大，不能假定九卷同一水准。
 - **中文版是选本**，日文原版规模更大，中译有取舍。
 - **叙述的当代关切很强**：多卷把古代与当代（9·11、伊拉克战争、欧盟、民族纷争）并置对话，读的时候要分清哪句是史证、哪句是借古论今。
+
+## 姊妹档案
+
+同一方法产出的另一套：《讲谈社·日本的历史》分析框架——[kodansha-japan-history-perspective](https://github.com/dxl681505/kodansha-japan-history-perspective)。
+
+两套书的性格不同，可以对照使用：世界史是**横切**（每卷锁一个文明/帝国单位），日本史是**纵贯**（按时代接续通史）。
 
 ## 许可
 
